@@ -24,7 +24,7 @@
   
   <h1 align="center">🔗 Important Link </h1>
   
-  [1. Learing JetPack Compose Starting Phase](https://www.youtube.com/playlist?list=PL9n0l8rSshSmiu8ddKebcKCltDfppDkEd)
+  [1. Learing JetPack Compose Starting Phase](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
   
   <br>
   <br>

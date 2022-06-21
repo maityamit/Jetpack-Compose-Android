@@ -14,8 +14,10 @@
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
 |01|02-A|02-B|
 | ![Imgur](Demo/1.png) | ![Imgur](Demo/2-a.png) | ![Imgur](Demo/2-b.png) | 
-|03|04|04-B|
-| ![Imgur](Demo/3.png) | ![Imgur](Demo/4.png) | ![Imgur](Images/4-b.png) | 
+|03|04|05|
+| ![Imgur](Demo/3.png) | ![Imgur](Demo/4.png) | ![Imgur](Demo/5.png) | 
+ |06|07|08|
+| ![Imgur](Demo/6.gif) | ![Imgur](Demo/7.png) | ![Imgur](Demo/8.png) | 
   
   
   <br>

@@ -10,16 +10,14 @@
 
 <h1 align="center">📸 Apps Demo</h1>
   
-||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-|01|02-A|02-B|
-| ![Imgur](Demo/1.png) | ![Imgur](Demo/2-a.png) | ![Imgur](Demo/2-b.png) | 
-|03|04|05|
-| ![Imgur](Demo/3.png) | ![Imgur](Demo/4.png) | ![Imgur](Demo/5.png) | 
-|06|07|08|
-| ![Imgur](Demo/6.gif) | ![Imgur](Demo/7.png) | ![Imgur](Demo/8.png) | 
-|09|10|11|
-| ![Imgur](Demo/9.gif) | ![Imgur](Demo/10.png) | ![Imgur](Demo/11.png) | 
+|||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
+|01|02-A|02-B|03|
+| ![Imgur](Demo/1.png) | ![Imgur](Demo/2-a.png) | ![Imgur](Demo/2-b.png) | ![Imgur](Demo/3.png) |
+|04|05|06|07|
+| ![Imgur](Demo/4.png) | ![Imgur](Demo/5.png) | ![Imgur](Demo/6.gif) | ![Imgur](Demo/7.png) |
+|08|09|10|
+| ![Imgur](Demo/8.png) | ![Imgur](Demo/9.gif) | ![Imgur](Demo/10.png) | 
   
   
   <br>

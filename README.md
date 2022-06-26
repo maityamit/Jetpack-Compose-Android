@@ -7,7 +7,10 @@
 |:----------------------------------------:|:-----------------------------------------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank">  |
 
-
+<p align="center">
+ <a href=""><img src="https://github.com/maityamit/BMI-Calculator-JetPack-Compose/blob/master/Demo/pr_amit.svg" width="50%" /></a>
+ </p>
+  
 <h1 align="center">📸 Apps Demo</h1>
   
 |||||

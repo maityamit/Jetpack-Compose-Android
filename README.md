@@ -20,7 +20,7 @@
 |04|05|06|07|
 | ![Imgur](Demo/4.png) | ![Imgur](Demo/5.png) | ![Imgur](Demo/6.gif) | ![Imgur](Demo/7.png) |
 |08|09|10|
-| ![Imgur](Demo/8.png) | ![Imgur](Demo/9.gif) | ![Imgur](Demo/10.gif) | 
+| ![Imgur](Demo/8.png) | ![Imgur](Demo/9.gif) | ![Imgur](Demo/10.gif) | ![Imgur](Demo/11.png) |
   
   
   <br>
